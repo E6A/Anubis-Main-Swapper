@@ -1,0 +1,9 @@
+C:\Users\Timmy\Downloads\bin\Debug\net472\Anubis Main Swapper.exe.config
+C:\Users\Timmy\Downloads\bin\Debug\net472\Anubis Main Swapper.exe
+C:\Users\Timmy\Downloads\bin\Debug\net472\Anubis Main Swapper.pdb
+C:\Users\Timmy\Downloads\obj\Debug\net472\Swapper-Cleaned.csprojAssemblyReference.cache
+C:\Users\Timmy\Downloads\obj\Debug\net472\Swapper-Cleaned.Anubis_Main_Swapper.Form1.resources
+C:\Users\Timmy\Downloads\obj\Debug\net472\Swapper-Cleaned.csproj.GenerateResource.cache
+C:\Users\Timmy\Downloads\obj\Debug\net472\Swapper-Cleaned.csproj.CoreCompileInputs.cache
+C:\Users\Timmy\Downloads\obj\Debug\net472\Anubis Main Swapper.exe
+C:\Users\Timmy\Downloads\obj\Debug\net472\Anubis Main Swapper.pdb
